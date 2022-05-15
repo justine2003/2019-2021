@@ -1,0 +1,8 @@
+
+--Servicio Radiologia--
+Nombre del hospitalHospital San Rafael de Alajuela
+Abril
+Cantidad de días: 3
+Cantidad de horas laborales: 1200
+Cantida de horas no laborales: 240
+Promedio de paciente: 120

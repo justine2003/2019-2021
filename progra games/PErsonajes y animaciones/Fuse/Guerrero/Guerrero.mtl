@@ -1,0 +1,74 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Guerrero_Top_diffuse.png
+map_Ks Guerrero_Top_specular.png
+bump Guerrero_Top_normal.png
+map_Ns Guerrero_Top_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Guerrero_Bottom_diffuse.png
+map_Ks Guerrero_Bottom_specular.png
+bump Guerrero_Bottom_normal.png
+map_Ns Guerrero_Bottom_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Guerrero_Shoes_diffuse.png
+map_Ks Guerrero_Shoes_specular.png
+bump Guerrero_Shoes_normal.png
+map_Ns Guerrero_Shoes_gloss.png
+
+newmtl Glove
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Guerrero_Glove_diffuse.png
+map_Ks Guerrero_Glove_specular.png
+bump Guerrero_Glove_normal.png
+map_Ns Guerrero_Glove_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Guerrero_Hair_diffuse.png
+map_Ks Guerrero_Hair_specular.png
+bump Guerrero_Hair_normal.png
+map_Ns Guerrero_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Guerrero_Body_diffuse.png
+map_Ks Guerrero_Body_specular.png
+bump Guerrero_Body_normal.png
+map_Ns Guerrero_Body_gloss.png
+

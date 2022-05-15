@@ -1,0 +1,1 @@
+listCentros=['Hospital San Vicente de Paul', 'Hospital México', 'Hospital San Juan de Dios', 'Hospital San Rafael de Alajuela', 'Hospital Tony Facio Castro', 'Hospital Nacional de Niños Carlos Sáenz Herrera', 'hospital sanjua', 'hospital ', 'hospital justin', 'hospital hola']

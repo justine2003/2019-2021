@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Valores\Valores\bin\Debug\Valores.exe.config
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Valores\Valores\bin\Debug\Valores.exe
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Valores\Valores\bin\Debug\Valores.pdb
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Valores\Valores\obj\Debug\Valores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Valores\Valores\obj\Debug\Valores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Valores\Valores\obj\Debug\Valores.exe
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Valores\Valores\obj\Debug\Valores.pdb

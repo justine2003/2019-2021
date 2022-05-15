@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c7e507a-bc84-48de-b35e-e528b60606ac": {
+      "ProjectGuid": "4c7e507a-bc84-48de-b35e-e528b60606ac",
+      "DisplayName": "CalculadoraIMC",
+      "ColorIndex": 0
+    },
+    "72bb7c51-57ad-42db-83f7-df37dbe76f18": {
+      "ProjectGuid": "72bb7c51-57ad-42db-83f7-df37dbe76f18",
+      "DisplayName": "CalculadoraIMC.Android",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

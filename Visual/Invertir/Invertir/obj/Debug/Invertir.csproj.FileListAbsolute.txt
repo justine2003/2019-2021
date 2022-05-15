@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\visual\Invertir\Invertir\bin\Debug\Invertir.exe.config
+C:\Users\Usuario\Desktop\visual\Invertir\Invertir\bin\Debug\Invertir.exe
+C:\Users\Usuario\Desktop\visual\Invertir\Invertir\bin\Debug\Invertir.pdb
+C:\Users\Usuario\Desktop\visual\Invertir\Invertir\obj\Debug\Invertir.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\visual\Invertir\Invertir\obj\Debug\Invertir.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\visual\Invertir\Invertir\obj\Debug\Invertir.exe
+C:\Users\Usuario\Desktop\visual\Invertir\Invertir\obj\Debug\Invertir.pdb
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Invertir\Invertir\bin\Debug\Invertir.exe.config
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Invertir\Invertir\bin\Debug\Invertir.exe
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Invertir\Invertir\bin\Debug\Invertir.pdb
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Invertir\Invertir\obj\Debug\Invertir.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Invertir\Invertir\obj\Debug\Invertir.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Invertir\Invertir\obj\Debug\Invertir.exe
+C:\Users\Usuario\Desktop\Aplicaciones creadas\Visual\Invertir\Invertir\obj\Debug\Invertir.pdb
